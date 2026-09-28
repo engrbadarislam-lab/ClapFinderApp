@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand greens -->
+    <!-- Brand oranges -->
+    <color name="green_primary">#F57C00</color>
+    <color name="green_primary_dark">#DB6A00</color>
+    <color name="green_ring">#FF8F2E</color>
+    <color name="green_soft">#FFF0E1</color>
+    <color name="green_text">#F57C00</color>
+
+    <!-- Header gradient (main screen) -->
+    <color name="grad_header_top">#F7B24C</color>
+    <color name="grad_header_bottom">#E97F33</color>
+
+    <!-- Orange (PRO / ADS) -->
+    <color name="orange_start">#F7B24C</color>
+    <color name="orange_end">#E97F33</color>
+
+    <!-- Surfaces -->
+    <color name="bg">#F57C00</color>
+    <color name="sheet">#FFFFFF</color>
+    <color name="card">#F1F4F2</color>
+    <color name="card_pressed">#E6EBE8</color>
+    <color name="divider">#E3E8E5</color>
+
+    <!-- Text -->
+    <color name="text_primary">#161A18</color>
+    <color name="text_secondary">#7C8A83</color>
+    <color name="text_disabled">#AAB5AF</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="scrim">#88000000</color>
+    <color name="darkorange">#CC5500</color>
+    <color name="orange_primary">#FF6B00</color>
+    <color name="orange_primary_disabled">#66FF6B00</color>
+    <color name="orange_surface_alt">#FFF3E0</color>
+    <color name="orange_ink">#2D2D2D</color>
+    <color name="orange_ink_faint">#888888</color>
+    <color name="orange_success">#4CAF50</color>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Banners (home, settings, whistle) -->
+
+    <string name="admob_app_id" translatable="false">ca-app-pub-6602019238405837~8996702930</string>
+
+    <string name="admob_main_banner" translatable="false">ca-app-pub-6602019238405837/6906706150</string>
+    <string name="admob_intro_banner" translatable="false">ca-app-pub-6602019238405837/6906706150</string>
+
+    <!-- Interstitials (onboarding finish + every Home tap) -->
+    <string name="admob_global_inter" translatable="false">ca-app-pub-6602019238405837/5615861123</string>
+    <string name="admob_splash_inter" translatable="false">ca-app-pub-6602019238405837/5615861123</string>
+    <string name="admob_splash_inter_fallback" translatable="false">ca-app-pub-6602019238405837/5615861123</string>
+    <string name="admob_print_inter" translatable="false">ca-app-pub-6602019238405837/5615861123</string>
+
+    <!-- Native (not placed on any screen yet, same as before) -->
+    <string name="admob_native" translatable="false">ca-app-pub-6602019238405837/9114043386</string>
+    <string name="admob_native_2" translatable="false">ca-app-pub-6602019238405837/9114043386</string>
+
+    <!-- App open (Welcome Back) -->
+    <string name="admob_app_open" translatable="false">ca-app-pub-6602019238405837/8106293093</string>
+
+    <!-- admob_rewarded: ClapFinder has no rewarded unit (none used). -->
+</resources>
